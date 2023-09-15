@@ -1,5 +1,4 @@
-
-# Bookstore Spring JDBC Project
+# Library Book Manager Spring JDBC Project
 
 **Description**
 
