@@ -1,4 +1,3 @@
-
 # Library Book Manager Spring JDBC Project
 
 **Description**
