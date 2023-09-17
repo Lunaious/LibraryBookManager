@@ -44,7 +44,6 @@ http://localhost:8080/books/
 
 - Adding a Book:
 Click on the "Add New Book" link. Fill in the book details and submit.
-Add Book Screenshot
 
 - Editing a Book:
 From the list of books, click on the "Edit" link next to the book you want to modify. Make the necessary changes and save.
